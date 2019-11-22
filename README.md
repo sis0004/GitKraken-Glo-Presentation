@@ -1,3 +1,4 @@
+
 # GitKraken-Glo: a project management tool linked with GitHub
 
 Components:
@@ -10,9 +11,12 @@ labels
 Functionality:
 extremely user friendly
 search and filter
+features of cards
+
 Integration with GitKraken
 Plugins with Atom or other visual studios
 Sync with GitHub
+Pull request automation
 
 
 
