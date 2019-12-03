@@ -45,7 +45,8 @@ switch to calendar view to assign due dates
     - Ex: tag 'high priority' tasks
 * Pull requests: link a card to a pull request and automatically change the column a card is in based on the status of the pull request. 
     - settings -> pull requests -> Connect with GitHub repos, select pull request, define which column
-* Calendar: Attach due dates or assign a milestone. View in calendar. click and drag to either change or assign due dates. Milestones are great tools to segment pieces of the project and stay on track. 
+* Calendar: Attach due dates or assign a milestone. View in calendar. click and drag to either change or assign due dates. Milestones are great tools to segment pieces of the project and stay on track. Set deadlines for pieces of the project
+  - ex: I want to have all of my data munging done by Friday. Creating plots and site maps should be done by 12/12. 
 * plugins to text editors such as Atom or to visual studios
 
 Fun little things: 
