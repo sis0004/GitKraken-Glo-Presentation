@@ -1,6 +1,7 @@
 ## Project Management Tools: Issue/Task Tracking Boards
 How i was introduced to this tool
 I was introduced to them as scrum boards but they're also called Issue boards.  
+
 ### What are they used for?
 Issue tracking/scrum boards are useful tools because they can be used for 
   - Collaborative projects: planning, communication, progress reports
@@ -48,16 +49,17 @@ switch to calendar view to assign due dates
 * Calendar: Attach due dates or assign a milestone. View in calendar. click and drag to either change or assign due dates. Milestones are great tools to segment pieces of the project and stay on track. Set deadlines for pieces of the project
   - ex: I want to have all of my data munging done by Friday. Creating plots and site maps should be done by 12/12. 
 * plugins to text editors such as Atom or to visual studios
+  - Atom: Atom -> Preferences -> Install -> search 'gitkraken-glo' -> install
+     - a shortcut to your Glo boards will be in the bottom right corner
 
 Fun little things: 
  * emoji reactions
  * add gifs 
     - files and images -> set to cover image
     
+Search and filter cards--- by tag, who is assigned, due date, or name of card
 
-Search and filter cards
-
-Pro: more features; extremely user friendly; plugins to text editiors and visual studios; desktop, web, and mobile enabled 
+Pro: more features; extremely user friendly; desktop, web, and mobile enabled 
 Con: 
 
 ### Trello:
@@ -81,9 +83,7 @@ Examples of templates on Trello for other uses
  - Plants
  - Vacation planning
 
-Integration with Git and other features: 
-Plugins with Atom or other visual studios
 
 
 
-Now you have all the tools - let's GitGlo-ing!
+Now you have all the tools... let's GitGlo-ing!
