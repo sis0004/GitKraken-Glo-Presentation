@@ -34,7 +34,7 @@ move cards to another column. Add a column of non-priority?
 switch to calendar view to assign due dates
 
 
-### Card features: https://support.gitkraken.com/glo/card-features/#milestones
+### Card features:
 * Invite collaborators to the board. Editing access can be allowed or denied. 
     - settings -> users -> invite
 * Assign: Assign who should be working on a particular card
