@@ -6,10 +6,10 @@ Issue tracking/scrum boards are useful tools because they can be used for
   - they are a great way to help with workflow on a team and personally
 
 ### Why?
- - Sometimes communication is hard. With issue tracking boards, everyone on the project is on the same page (literally). It allows for easy visualization of tasks. 
+We didn't do much collaborative work on big projects for this class, but even the small ones we did required us to communicate with each other. If that  communication didnt happen, it slowed down the project. Sometimes communication is hard. With issue tracking boards, everyone on the project is on the same page (literally). It allows for easy visualization of tasks, which becomes more and more important as the projects get larger.
  
 ### What are scrum boards?
-- Scrum boards are a common workflow tool used by development teams and can be extremely useful tools. 
+- Scrum boards are a common workflow tool used by development teams. They can be extremely useful tools. 
 Imagine it as a way to organize all the post it note "to-do's" you may have floating around your desk (maybe it's just me). 
 
 Typically, they contain three columns: To-do, In progress, and Completed, but you can customize what works for you. 
