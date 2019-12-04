@@ -1,6 +1,4 @@
 ## Project Management Tools: Issue/Task Tracking Boards
-How i was introduced to this tool
-I was introduced to them as scrum boards but they're also called Issue boards.  
 
 ### What are they used for?
 Issue tracking/scrum boards are useful tools because they can be used for 
@@ -12,7 +10,9 @@ Issue tracking/scrum boards are useful tools because they can be used for
  
 ### What are scrum boards?
 - Scrum boards are a common workflow tool used by development teams and can be extremely useful tools. 
-Imagine it as a way to organize all the post it note "to-do's" you may have floating around your desk (maybe it's just me). Typically, they contain three columns: To-do, In progress, and Completed, but you can customize what works for you. 
+Imagine it as a way to organize all the post it note "to-do's" you may have floating around your desk (maybe it's just me). 
+
+Typically, they contain three columns: To-do, In progress, and Completed, but you can customize what works for you. 
 Physical boards have the same idea, but online boards allow for much greater versatility. 
 
 ### What options are out there?
@@ -26,13 +26,10 @@ Let's start with Glo boards. GitKraken is a Git client, we talked about clients 
  * Boards- usually one for a repo/project
  * Columns- how to organize your tasks
  * Cards- specific tasks
+
+These can easily be moved around.
  
 ### GitKraken Glo boards:
-
-Start with a bunch of cards in a to do column; add card features to them live. 
-move cards to another column. Add a column of non-priority?
-switch to calendar view to assign due dates
-
 
 ### Card features:
 * Invite collaborators to the board. Editing access can be allowed or denied. 
@@ -46,11 +43,7 @@ switch to calendar view to assign due dates
     - Ex: tag 'high priority' tasks
 * Pull requests: link a card to a pull request and automatically change the column a card is in based on the status of the pull request. 
     - settings -> pull requests -> Connect with GitHub repos, select pull request, define which column
-* Calendar: Attach due dates or assign a milestone. View in calendar. click and drag to either change or assign due dates. Milestones are great tools to segment pieces of the project and stay on track. Set deadlines for pieces of the project
-  - ex: I want to have all of my data munging done by Friday. Creating plots and site maps should be done by 12/12. 
-* plugins to text editors such as Atom or to visual studios
-  - Atom: Atom -> Preferences -> Install -> search 'gitkraken-glo' -> install
-     - a shortcut to your Glo boards will be in the bottom right corner
+* Calendar: Attach due dates or assign a milestone. View in calendar. click and drag to either change or assign due dates. Milestones are great tools to segment pieces of the project and stay on track. Set deadlines for pieces of the project 
 
 Fun little things: 
  * emoji reactions
@@ -58,16 +51,14 @@ Fun little things:
     - files and images -> set to cover image
     
 Search and filter cards--- by tag, who is assigned, due date, or name of card
-
+* plugins to text editors such as Atom or to visual studios
+  - Atom: Atom -> Preferences -> Install -> search 'gitkraken-glo' -> install
+     - a shortcut to your Glo boards will be in the bottom right corner
+     
 Pro: more features; extremely user friendly; desktop, web, and mobile enabled 
 Con: 
 
-### Trello:
 
-Trello has many of the same card features as Glo boards, but I find the calendar tool to be extremely useful and that is a premuim feature on Trello. 
-
-Pro: many people use it, easy to find templates
-Con: a little more bulky, not all features are free
 
 ### GitHub Issues and Projects:
 GitHub has their own version that is similar, but not as good in my opinion. 
@@ -78,12 +69,17 @@ Once an issue is created, it has a few optional features such as assigning users
 Pro: Already on GitHub
 Con: frustrating to navigate once you're used to Glo/Trello
 
+### Trello:
+
+Trello has many of the same card features as Glo boards, but I find the calendar tool to be extremely useful and that is a premuim feature on Trello. 
+
+Pro: many people use it, easy to find templates
+Con: a little more bulky, not all features are free
+
 ### What else can I do?
 Examples of templates on Trello for other uses
  - Plants
  - Vacation planning
-
-
 
 
 Now you have all the tools... let's GitGlo-ing!
